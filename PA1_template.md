@@ -1,5 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-Chris Flink  
+Chris Flink (Nolost Intelligence)  
 
 
 ## Loading and preprocessing the data

@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-author: "Chris Flink"
+author: "Chris Flink (Nolost Intelligence)"
 output: 
   html_document:
     keep_md: true
